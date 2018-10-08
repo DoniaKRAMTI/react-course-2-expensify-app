@@ -22,11 +22,11 @@
     "core-js": "3.0.0-beta.3",
     "css-loader": "^1.0.0",
     "express": "4.15.4",
-  
     "live-server": "^1.2.0",
     "moment": "2.18.1",
     "node-sass": "4.5.3",
     "normalize.css": "^7.0.0",
+    "numeral": "2.0.6",
     "raf": "^3.4.0",
     "react": "16.0.0",
     "react-addons-shallow-compare": "15.6.0",
@@ -34,7 +34,6 @@
     "react-dom": "16.0.0",
     "react-modal": "^2.4.1",
     "react-router-dom": "4.2.2",
-    
     "sass-loader": "6.0.6",
     "style-loader": "0.18.2",
     "uuid": "3.1.0",
@@ -46,14 +45,13 @@
     "babel-core": "6.25.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-preset-env": "^1.5.2",
-
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.6.0",
     "enzyme-to-json": "3.0.0",
-    "jest": "20.0.4",
-    "react-test-renderer": "16",
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "jest": "20.0.4",
     "react-redux": "^5.0.5",
+    "react-test-renderer": "16",
     "redux": "^3.7.2",
     "webpack-dev-server": "^3.1.9"
   }
